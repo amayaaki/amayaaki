@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @amayaaki
-- 👀 I’m interested in data analysis
-- 🌱 I’m currently learning SQL, Python and R
-- 📫 How to reach me olya.ptmk@mail.ru or https://t.me/amayaaki
+👋 Hi, I’m Olga
+Middle Product Analyst as SKB Kontur
+
+📫 Can contact me trough:  
+e-mail     olya.ptmk@mail.ru   
+telegram   https://t.me/amayaaki  
 
 <!---
 amayaaki/amayaaki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
